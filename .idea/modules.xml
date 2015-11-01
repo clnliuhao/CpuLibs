@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CpuLibs.iml" filepath="$PROJECT_DIR$/CpuLibs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cpulibs/cpulibs.iml" filepath="$PROJECT_DIR$/cpulibs/cpulibs.iml" />
+    </modules>
+  </component>
+</project>
